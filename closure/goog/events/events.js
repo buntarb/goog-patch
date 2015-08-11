@@ -1,3 +1,7 @@
+// Buntarb comment.
+// This file was patched by goog-patch project.
+
+
 // Copyright 2005 The Closure Library Authors. All Rights Reserved.
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
